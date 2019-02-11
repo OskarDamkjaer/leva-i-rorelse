@@ -1,7 +1,9 @@
 :root {
-	--turkey: #FFF0EB;
 	--white: white;
+	--bakgrund: #EBF0FA;
 	--blue: blue;
+    --light: #84b3e4;
+    --dark: #32485c;
 }
 
 *, *:before, *:after {
@@ -19,7 +21,8 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--turkey);
+	background-color: var(--bakgrund);
+    color: var(--dark);
 }
 
 main {
@@ -34,7 +37,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--blue);
+	color: var(--dark);
 }
 
 a[href]:not(:hover) {
@@ -85,6 +88,10 @@ header > em {
 	margin: .67em 0;
 	font-weight: bold;
 	font-style: normal;
+}
+
+header img {
+    height: 100px;
 }
 
 /* Header Nav */

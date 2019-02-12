@@ -1,20 +1,13 @@
 ---
-layout: layouts/home.njk
-title: Home
+title: Välkommen
 date: 2016-01-01T00:00:00.000Z
 permalink: /
-navtitle: Home
+navtitle: Hem
 tags:
   - nav
 ---
-# Welcome
+Söker du en möjlighet att lära dig att förbättra din förmåga att göra det du vill? Då har du hittat rätt!
 
-Hejjjjjjjjj
+Det kan bli möjligt genom att hitta sätt att röra dig lättare, med bättre balans och större smidighet. Spänningar kan minska och smärta lindras, din självbild kan utvecklas och du bli ditt bästa jag. 
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
-
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on Github.
-
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+Välkommen att läsa mer!

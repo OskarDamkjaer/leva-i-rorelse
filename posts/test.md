@@ -5,4 +5,5 @@ summary: detta är ett test
 tags:
   - post
 ---
-**ysss**
+* ![k](/static/img/nattvard.jpg "k")
+  **ysss**

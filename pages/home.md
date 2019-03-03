@@ -11,3 +11,7 @@ Söker du en möjlighet att lära dig att förbättra din förmåga att göra de
 Det kan bli möjligt genom att hitta sätt att röra dig lättare, med bättre balans och större smidighet. Spänningar kan minska och smärta lindras, din självbild kan utvecklas och du bli ditt bästa jag. 
 
 Välkommen att läsa mer!
+
+
+
+Ny text

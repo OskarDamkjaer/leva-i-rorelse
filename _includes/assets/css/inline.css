@@ -47,12 +47,6 @@ a[href]:not(:hover) {
   text-decoration: none;
 }
 
-header,
-main,
-footer {
-  padding: 1em;
-}
-
 main {
   padding-bottom: 2em;
 }
@@ -95,25 +89,6 @@ header > em {
 
 header img {
   height: 100px;
-}
-
-/* Header Nav */
-header nav ul :first-child {
-  margin-left: 0;
-}
-
-header nav li {
-  display: inline-block;
-  margin: 0 0.5em;
-}
-
-header nav li a[href]:not(:hover) {
-  text-decoration: none;
-}
-
-header nav li a[data-current='current item'] {
-  font-weight: 700;
-  text-decoration: underline;
 }
 
 /* Posts List */
@@ -242,6 +217,8 @@ a:hover {
   display: block;
   width: 33px;
   height: 4px;
+  padding: 0;
+  margin: 0;
   margin-bottom: 5px;
   position: relative;
 
@@ -299,6 +276,7 @@ a:hover {
   margin: -100px 0 0 -50px;
   padding: 50px;
   padding-top: 125px;
+  height: 100vh;
 
   background: #ededed;
   list-style-type: none;

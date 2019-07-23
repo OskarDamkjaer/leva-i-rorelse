@@ -6,16 +6,16 @@
     <body>
 
         <header>
+        {% include "components/nav.njk" %}
             <em>
                 <a href="{{ '/' | url }}">
                     <img src="/static/img/logo.png" />
                 </a>
             </em>
-            {% include "components/nav.njk" %}
         </header>
 
         <main>
-        {{ layoutContent | safe }}
+            {{ layoutContent | safe }}
         </main>
 
         {% include "components/footer.njk" %}
